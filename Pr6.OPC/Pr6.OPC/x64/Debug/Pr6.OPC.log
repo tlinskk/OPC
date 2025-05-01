@@ -1,0 +1,3 @@
+﻿  Pr6.OPC.cpp
+C:\Users\User\OneDrive\Рабочий стол\ОПC++\Pr6.OPC\Pr6.OPC\Pr6.OPC.cpp(342,15): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  Pr6.OPC.vcxproj -> C:\Users\User\OneDrive\Рабочий стол\ОПC++\Pr6.OPC\x64\Debug\Pr6.OPC.exe
